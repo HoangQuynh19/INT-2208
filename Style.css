@@ -310,3 +310,6 @@ body {
 .footer p {
     font-size: 12px;
 }
+..product-description hr {
+    margin-bottom: 50px;
+}
